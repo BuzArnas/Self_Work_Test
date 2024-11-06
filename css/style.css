@@ -1,0 +1,92 @@
+body{
+    font-family: 'Poppins';
+    background-color: #F0E8E2;
+}
+/* ======= Navigation ======= */
+.navbar{
+    padding: 0;
+}
+.navbar-brand{
+    font-size: 1.6em;
+    font-weight: 400;
+    margin-right: 0;
+}
+.active{
+    box-sizing: content-box;
+    width: 100%;
+    border-bottom: solid #000 1px;
+    padding-bottom: 7px;
+}
+/* ======= Main Text ======= */
+.main-text>h1{
+    font-size: 3.2em;
+    font-weight: 600;
+    margin-top: 1.25em;
+    margin-bottom: 1em;
+    line-height: 1.6em;
+}
+.main-text>p{
+    color: #888;
+    font-size: 1.2em;
+    font-size: 400;
+    margin-bottom: 3.5em;
+}
+.main-text>a{
+    background-color: #55a000;
+    height: 12%;
+    width: 25%;
+    text-align: center;
+    padding-top: 15px;
+}
+/* ======= Main Image ======= */
+.main-image-inner{
+    display: inline;
+}
+.main-image-inner>img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.main-image-inner-button{
+    background-color: #fff;
+    border-radius: 50%;
+}
+.main-image-inner-button>a>i{
+    color: #9499B7;
+    font-size: 4em;
+}
+.main-image-info{
+    background-color: #fff;
+    border-radius: 25px;
+}
+.main-image-info>h2{
+    font-size: 1em;
+}
+.main-image-info>p{
+    color: #888;
+    font-size: 0.8em;
+}
+.main-image-info>i{
+    color: #ffd000;
+}
+/* ======= Global Companies ======= */
+.partners-text>h2{
+    font-size: 1.1em;
+    font-weight: 400;
+}
+.partners-companies>div>div>h2{
+    font-size: 1.2em;
+    font-weight: 400;
+}
+/* ======= Career ======= */
+.career-text-top>h2{
+    font-size: 1.2em;
+}
+.career-text-bottom>h2{
+    font-size: 1.5em;
+    font-weight: 700;
+}
+/* ======= Cards ======= */
+.gray-text{
+    color: #9B948E;
+}
